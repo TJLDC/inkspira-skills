@@ -2,6 +2,13 @@
 name: tattoo-design-brief
 description: Turn a tattoo idea, reference, or placement question into a concise consultation brief for a tattoo artist. Use when someone wants to prepare for a studio visit, compare tattoo sizes or placements, or preview an idea with Inkspira.
 license: MIT
+metadata:
+  runtime:
+    - claude-code
+    - codex
+    - cursor
+    - gemini-cli
+    - vscode-copilot
 ---
 
 # Tattoo Design Brief
